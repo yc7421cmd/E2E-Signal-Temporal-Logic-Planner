@@ -12,7 +12,7 @@
 ## Model Structure
 
 <p align="center">
-  <img src="assets/model.pdf" width="92%" />
+  <img src="assets/final_model.png" width="92%" />
 </p>
 <p align="center">
   <em>S-MSP maps multi-view observations and STL specifications directly to feasible trajectories with a structure-aware MoE and last introduce a safety filter.</em>
