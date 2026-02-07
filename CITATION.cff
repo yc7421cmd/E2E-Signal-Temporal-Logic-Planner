@@ -1,0 +1,9 @@
+@misc{ye2025bridgingperceptionplanning,
+  title         = {Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks},
+  author        = {Ye, Bowen and Huang, Junyue and Liu, Yang and Qiao, Xiaozhen and Yin, Xiang},
+  year          = {2025},
+  eprint        = {2509.12813},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url           = {https://arxiv.org/abs/2509.12813}
+}
