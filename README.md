@@ -21,8 +21,9 @@
 ---
 
 ## News
-- **2026-__-__**: Paper accepted to **ICRA 2026**.
-- **2026-__-__**: Code release.
+- **2026-01-31**: Paper accepted to **ICRA 2026**.
+- **2026-02-02**: Code release.
+- **To be Done**：Final code release.
 
 ---
 
